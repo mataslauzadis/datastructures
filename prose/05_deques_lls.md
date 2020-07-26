@@ -447,7 +447,7 @@ The classes, `TestListQueue` and `TestLinkedQueue`, extend both `unittest.TestCa
 This is called **multiple inheritance**.
 In other languages like C++ that support multiple inheritance, it is considered a bad design decision.
 However, in Python, it is appropriate to use it for this kind of **mix in**.
-The only thing to remember is that the golden rule of inheritance should still be observed: **inheritance mean 'is a'**.
+The only thing to remember is that the golden rule of inheritance should still be observed: **inheritance means 'is a'**.
 
 
 If you wanted to add specific tests to one of these implementations, but not the other, you could do so in the subclasses.
