@@ -8,8 +8,8 @@ Here is the ADT.
 
   - **addfirst(item)** - add `item` to the front of the deque.
   - **addlast(item)** - add `item` to the end of the deque.
-  - **removefirst(item)** - remove and return the first item in the deque.
-  - **removelast(item)** - remove and return the last item in the deque.
+  - **removefirst()** - remove and return the first item in the deque.
+  - **removelast()** - remove and return the last item in the deque.
   - **len** - return the number of items in the deque.
 
 
